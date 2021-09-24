@@ -1,11 +1,5 @@
 {
-    "tokens": [
-        {
-            "id": 0,
-            "description": "Apprentice token",
-            "external_url": "https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif",
-            "image": "https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif",
-            "name": "Apprentice token"
-        }
-     ]
+    "name": "Apprentice",
+    "description": "Congratulations for calling an RT contract",
+    "image": "https://media.giphy.com/media/IF3vFjdmlj14lR6ZJu/giphy.gif",
 }
