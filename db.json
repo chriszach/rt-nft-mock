@@ -1,5 +1,10 @@
 {
-    "name": "Apprentice",
-    "description": "Congratulations for calling an RT contract",
-    "image": "https://media.giphy.com/media/IF3vFjdmlj14lR6ZJu/giphy.gif",
+    "tokens":[
+        {
+            "id": 0
+            "name": "Apprentice",
+            "description": "Congratulations for calling an RT contract",
+            "image": "https://media.giphy.com/media/IF3vFjdmlj14lR6ZJu/giphy.gif"
+        }
+    ]
 }
