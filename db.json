@@ -1,10 +1,11 @@
 {
-    "tokens":[
-        {
-            "id": 0
-            "name": "Apprentice",
-            "description": "Congratulations for calling an RT contract",
-            "image": "https://media.giphy.com/media/IF3vFjdmlj14lR6ZJu/giphy.gif"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
