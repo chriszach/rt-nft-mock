@@ -1,9 +1,20 @@
 {
-  "posts": [
+  "tokens": [
     {
-      "id": 1,
-      "title": "hello"
+  "description": "Much wow!", 
+  "image": "https://icon-library.com/images/doge-icon/doge-icon-3.jpg", 
+  "name": "Doge Engineering",
+  "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
     }
+  ]
+}
   ],
   "profile": {
     "name": "typicode"
